@@ -58,5 +58,5 @@ int main() {
 
     // call method on s1 that will test if it is equal to s2
     // and display its return to stdout as false or true
-    
+    cout << "S1 1 equals S2 2 ? " << (s1.equalStatistician(s2) ? "true" : "false" ) << endl;
 }
